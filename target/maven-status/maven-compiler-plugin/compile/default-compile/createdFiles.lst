@@ -1,0 +1,11 @@
+com\maplabs\mapprotect\data\BlockData.class
+com\maplabs\mapprotect\data\BlockCache.class
+com\maplabs\mapprotect\tasks\CleanupTask.class
+com\maplabs\mapprotect\tasks\TimerTask.class
+com\maplabs\mapprotect\listeners\PlayerListener.class
+com\maplabs\mapprotect\tasks\CleanupTask$1.class
+com\maplabs\mapprotect\commands\FFAClearCommand.class
+com\maplabs\mapprotect\data\DatabaseManager.class
+com\maplabs\mapprotect\MapProtect.class
+com\maplabs\mapprotect\listeners\BlockListener.class
+com\maplabs\mapprotect\utils\ColorUtils.class

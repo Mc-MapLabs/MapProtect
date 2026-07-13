@@ -1,0 +1,19 @@
+name: MapProtect
+version: 1.0
+main: com.maplabs.mapprotect.MapProtect
+api-version: '1.20'
+authors: [OkaySleepy]
+description: Lightweight FFA protection plugin.
+
+commands:
+  mapprotect:
+    description: Admin commands for MapProtect.
+    permission: mapprotect.admin
+
+permissions:
+  mapprotect.creative.bypass:
+    description: Allows creative players to bypass arena protection
+    default: op
+  mapprotect.admin:
+    description: Allows force clearing the FFA arena and reloading
+    default: op

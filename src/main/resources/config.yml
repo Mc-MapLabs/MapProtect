@@ -1,0 +1,39 @@
+#  __  __    _    ____  _      _    ____  ____
+# |  \/  |  / \  |  _ \| |    / \  | __ )/ ___|
+# | |\/| | / _ \ | |_) | |   / _ \ |  _ \\___ \
+# | |  | |/ ___ \|  __/| |__/ ___ \| |_) |___) |
+# |_|  |_/_/   \_\_|   |____/_/   \_\____/|____/
+#
+#                  M a p L a b s   |   M a p P r o t e c t
+#
+# -----------------------------------------------------------------------------
+#
+#  Developed & Managed by: SleepyDN
+#  Email: sleepyxemail@gmail.com
+#  GitHub: https://github.com/OkaySleepy
+#  MapLabs GitHub: https://github.com/Mc-MapLabs
+#  Discord: @OkaySleepyX
+#
+# -----------------------------------------------------------------------------
+
+# Database type to use (Only SQLITE is currently fully supported)
+database:
+  type: SQLITE
+
+# List of block types that players are NOT allowed to break in the map
+protection:
+  blocked-materials:
+    - STONE
+    - DIRT
+    - GRASS_BLOCK
+    - BEDROCK
+    - OBSIDIAN
+
+# Cooldown between breaking warning messages in seconds
+cooldown:
+  seconds: 3
+
+# How many blocks to process per tick during the cleanup phase
+# Note: 20 ticks = 1 second. Higher values clean faster but may lag the server.
+performance:
+  blocks-per-tick: 50
