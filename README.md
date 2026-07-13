@@ -4,12 +4,20 @@
 
 <br>
 
-  <img src="https://img.shields.io/badge/Minecraft-1.20%2B-62B47A?style=flat-square&logo=minecraft&logoColor=white">
-  <img src="https://img.shields.io/badge/Platform-Paper%20%7C%20Spigot-ED8B00?style=flat-square">
-  <img src="https://img.shields.io/badge/Java-17%2B-5382A1?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/PlaceholderAPI-Supported-4F8CFF?style=flat-square">
+<a href="https://modrinth.com/plugin/mapprotect">
+  </a>
+<img src="https://img.shields.io/modrinth/dt/MODRINTH_PROJECT_ID?style=flat-square&logo=modrinth&logoColor=white&label=Modrinth%20Downloads&color=00AF5C">
+</a>
+
+<img src="https://img.shields.io/badge/Minecraft-1.20%2B-62B47A?style=flat-square&logo=minecraft&logoColor=white">
+<img src="https://img.shields.io/badge/Platform-Paper%20%7C%20Spigot-ED8B00?style=flat-square">
+<img src="https://img.shields.io/badge/Java-17%2B-5382A1?style=flat-square&logo=openjdk&logoColor=white">
 
 <br><br>
+
+<a href="https://modrinth.com/plugin/mapprotect">
+<img src="https://img.shields.io/badge/Download-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white">
+</a>
 
 </div>
 
